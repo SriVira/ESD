@@ -1,0 +1,5 @@
+Recipe form Sri
+
+01. go to pizzahut.com
+02. select pizza
+03. buy pizza
